@@ -1,4 +1,5 @@
 makeclean.log
+convertModel.log
 out/
 build/host/*.so
 build/host/tmp/
